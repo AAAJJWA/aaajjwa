@@ -1,90 +1,64 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:7F7FD5,100:86A8E7&height=180&text=JSP%20Web%20Application&fontSize=45&fontColor=ffffff)
+<!-- 상단 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=220&text=AAAJJWA&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=ffffff&desc=Java%20%26%20Web%20Developer&descAlignY=65)
 
-# 🚀 프로젝트명 (Project Name)
-회원 관리와 게시판 기능을 갖춘 JSP 기반 웹 애플리케이션
+<p align="center">
+  <em>💻 Passionate about web development, backend systems, and creative coding 🎨</em>
+</p>
 
-## 📘 개요 (Overview)
-	본 프로젝트는 **Servlet과 JSP를 이용한 MVC 패턴 기반의 웹 애플리케이션**으로,  
-	회원 관리(로그인·회원가입) 및 게시판 CRUD 기능을 중심으로 구성되었습니다.  
-	Oracle 데이터베이스와 JDBC를 통해 데이터 연동을 수행하며,  
-	Eclipse + Tomcat 환경에서 실행 가능합니다.
+---
 
-## 🧱 기술 스택 (Tech Stack)
-| 구분 | 사용 기술 |
-|------|------------|
-| Frontend | HTML, CSS, JavaScript, JSP |
-| Backend | Java (Servlet, JDBC)|
-| Server| Apache Tomcat |
-| Database | Oracle |
-| Tools | Eclipse, Git, GitHub |
+## 🔖 PROFILE
+<p align="center">
+  <a href="https://github.com/AAAJJWA">GitHub</a> • 
+  <a href="mailto:youremail@example.com">Email</a> • 
+  <a href="https://yourblog.example.com">Blog</a>
+</p>
 
-## 🔖 대표 기술
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+---
 
-## 🛠️ 설치 및 실행 (Installation & Run)
-# 1. 프로젝트 클론
-git clone https://github.com/AAAJJWA/workspace0724.git
+## 🧩 TOY PROJECTS
+| 프로젝트명 | 설명 |
+|-------------|-------|
+| 🧱 **App Sorter (Android)** | 설치된 앱을 카테고리별로 분류하는 안드로이드 앱 |
+| 🍎 **Apple Game (Java)** | Java Swing 기반 점수 시스템 게임 |
+| 💸 **Account Book (Web)** | HTML/CSS/JS 기반 가계부 웹앱 |
 
-# 2. 이클립스(Eclipse)에서 Import
-- File > Import > Existing Projects into Workspace
-- 복제한 프로젝트 폴더 선택 후 Import
+---
 
-# 3. 데이터베이스(Oracle) 설정
-- Oracle 실행 후 데이터베이스 및 테이블 생성
-- src/main/webapp/WEB-INF/classes/sql 폴더 내 SQL 스크립트 실행
-- JDBC 연결 정보(application.properties 또는 JDBCTemplate.java) 수정
+## 💡 What I Use
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
-# 4. Tomcat 서버 설정
-- Eclipse > Servers > New > Server > Apache Tomcat 선택
-- 프로젝트를 서버에 Add 후 실행
+---
 
-# 5. 웹 애플리케이션 실행
-- 브라우저에서 접속
-http://localhost:8080/프로젝트명
-→ 포트번호를 본인 환경에 맞게 바꿔서 접속
+## ⚙️ Tools I Use
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 프로젝트 구조 (Directory Structure)
-```
-project/
- ├── src/
- │   ├── com/project/controller/     # Servlet 컨트롤러
- │   ├── com/project/model/dao/      # 데이터 접근 로직 (DAO)
- │   ├── com/project/model/vo/       # VO (Value Object)
- │   ├── com/project/service/        # 비즈니스 로직
- │   └── com/project/common/         # 공용 유틸 (JDBCTemplate 등)
- ├── webapp/
- │   ├── WEB-INF/
- │   │   ├── views/                  # JSP 뷰 페이지
- │   │   └── web.xml                 # 배포 서술자
- │   ├── resources/                  # CSS, JS, 이미지
- │   └── index.jsp                   # 메인 페이지
- └── README.md
-```
+---
 
-## 🌟 주요 기능 (Key Features)
-✅ 회원가입 / 로그인 / 로그아웃 기능
-✅ 게시글 등록, 조회, 수정, 삭제 (CRUD)
-✅ Oracle DB 연동을 통한 데이터 관리
-✅ MVC 패턴 기반 구조로 모듈화된 개발
-✅ JSP include를 통한 공통 레이아웃 구성
+## 🎓 Education
+![Inflearn](https://img.shields.io/badge/Inflearn-02C75A?style=for-the-badge)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge)
 
-## 📸 화면 미리보기 (Preview)
-<!--
-| 기능 | 미리보기 |
-|------|-----------|
-| 로그인 화면 | ![Login Page](./assets/login.gif) |
-| 회원가입 화면 | ![Register Page](./assets/register.png) |
-| 게시판 목록 | ![Board List](./assets/board-list.jpg) |
-| 게시글 작성 | ![Post Write](./assets/post-write.gif) |
--->
+---
 
-## 💡 학습 포인트 (Learning Points)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AAAJJWA&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAAJJWA&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-- JSP & Servlet 기반 MVC 구조 설계 방법 학습
-- JDBC를 통한 데이터베이스 연결 및 SQL 처리 로직 구현
-- Tomcat 서버를 활용한 배포 및 실행 환경 이해
-- JSP 내 JSTL / EL 사용으로 동적 페이지 구현
+---
 
+<!-- 하단 배너 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=120&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=25&fontColor=ffffff)

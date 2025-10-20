@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F7FD5,100:86A8E7&height=180&text=AAAJJWA%20Web%20Application&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F7FD5,100:86A8E7&height=180&text=AAAJJWA&fontSize=45&fontColor=ffffff" />
 </p>
 
 ---

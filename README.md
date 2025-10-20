@@ -45,9 +45,10 @@
 ---
 
 ## 🎓 Education
+<!--
 <img src="https://img.shields.io/badge/Inflearn-02C75A?style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge"/>
-
+-->
 ---
 
 ## 📊 GitHub Stats

@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:7F7FD5,100:86A8E7&height=180&text=JSP%20Web%20Application&fontSize=45&fontColor=ffffff)
+
 # 🚀 프로젝트명 (Project Name)
 회원 관리와 게시판 기능을 갖춘 JSP 기반 웹 애플리케이션
 

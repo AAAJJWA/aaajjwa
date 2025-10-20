@@ -20,7 +20,6 @@
 | 프로젝트명 | 설명 |
 |-------------|-------|
 | 🧱 **App Sorter (Android)** | 설치된 앱을 카테고리별로 분류하는 안드로이드 앱 |
-| 🍎 **Apple Game (Java)** | Java Swing 기반 점수 시스템 게임 |
 | 💸 **Account Book (Web)** | HTML/CSS/JS 기반 가계부 웹앱 |
 
 ---

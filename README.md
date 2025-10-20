@@ -10,8 +10,8 @@
 ## 🔖 PROFILE
 <p align="center">
   <a href="https://github.com/AAAJJWA">GitHub</a> • 
-  <a href="mailto:youremail@example.com">Email</a> • 
-  <a href="https://yourblog.example.com">Blog</a>
+  <a href="lsh00071450@gmail.com">Email</a> • 
+  <a href="https://awsdevstudy.tistory.com/">Blog</a>
 </p>
 
 ---
